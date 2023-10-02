@@ -51,7 +51,6 @@ h6 {
 
 .header {
     height: 380px;
-    /* width: 100%; */
     background-image: url("/assets/img/castle.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -110,7 +109,6 @@ h6 {
 
 .form input::placeholder {
     color: #9ca4b4;
-    font-family: inherit;
 }
 
 .form input:focus {
