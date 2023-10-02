@@ -19,7 +19,7 @@ body {
     font-size: 1.6rem;
     background-color: rgba(59, 130, 246, 0.5);
     font-family: "PT Serif", serif;
-    overflow-x: hidden;
+    overflow-x: hidden !important;
 }
 img,
 picture,
